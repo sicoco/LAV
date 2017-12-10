@@ -13,7 +13,7 @@ just started, under development
 - 3 SHARP IR Rangefinder
 - 1 Ultrasound Rangefinder
 - 1 3-axis gyro sensor
-- 
+
 ### Processor
 
 - 1 Arduino Nano
@@ -24,10 +24,11 @@ just started, under development
 - 2 Tamiya DC geared motor
 - 2 5g Micro servo
 - 2 WS2812 RGB LED
-- 
+
 ### Power Source
 
 - 5V 4000mAh Li-ion Mobile Battery with 5V 2000mA output capacity
+
 ### Other Mechanical parts
 
 - 2 rubber wheels
